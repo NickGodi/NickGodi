@@ -4,24 +4,41 @@
   </a>
 </div>
 
-# 👋 Olá, eu sou o Nick
+#
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Aqui você encontrará alguns dos meus projetos e contribuições para a comunidade de código aberto.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
+#
 
-## Sobre Mim
+#
 
-Sou um desenvolvedor web iniciante com experiência em diversas tecnologias. Adoro aprender coisas novas e compartilhar meu conhecimento com a comunidade. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
-## 🛠️ Tecnologias e Ferramentas
+<h3 align="left">Connect with me!</h3>
 
-- **HTML5**: Estruturação de conteúdo web.
-- **CSS3**: Estilização de páginas web, incluindo Flexbox e Grid.
-- **JavaScript**: Desenvolvimento de funcionalidades interativas e dinâmicas.
-- **Python**: Desenvolvimento de scripts e aplicações backend.
-- **Bootstrap**: Criação de layouts responsivos e componentes reutilizáveis.
-- **React**: Desenvolvimento de interfaces de usuário modernas e reativas.
-- **Git**: Controle de versão e colaboração em projetos.
-- **GitHub**: Hospedagem de repositórios e colaboração em projetos de código aberto.
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:nicolas.100julio@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](#)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/nick_godi/)
+
+
+<h3 align="left">My Stack ~</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+</div>
+
+#
 
 ## 🌟 Projetos Destacados
 
