@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou o Nick
 
 Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Aqui você encontrará alguns dos meus projetos e contribuições para a comunidade de código aberto.
 
@@ -20,23 +20,14 @@ Sou um desenvolvedor web com experiência em diversas tecnologias e frameworks. 
 
 ## 🌟 Projetos Destacados
 
-### [Login Moderno](https://github.com/seu-usuario/login-moderno)
-Uma interface de login moderna e responsiva, utilizando HTML, CSS e JavaScript. Inclui funcionalidades para login e registro, com integração de ícones sociais.
-
-### [Meu Portfólio](https://github.com/seu-usuario/meu-portfolio)
+### [Meu Portfólio]([https://github.com/seu-usuario/meu-portfolio](https://nick-web-site-portfolio-curriculo.vercel.app/))
 Meu portfólio pessoal, onde apresento meus projetos e habilidades. Desenvolvido com HTML, CSS, JavaScript e Bootstrap.
-
-### [API de Exemplo](https://github.com/seu-usuario/api-exemplo)
-Uma API RESTful de exemplo, desenvolvida com Node.js e Express. Inclui operações CRUD e autenticação JWT.
-
 ## 📫 Contato
 
-- **Email**: seu-email@exemplo.com
-- **LinkedIn**: [Seu Nome](https://www.linkedin.com/in/seu-usuario)
-- **Twitter**: [@seu-usuario](https://twitter.com/seu-usuario)
+- **Email**: nicolas.100julio@gmail.com
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nickgodi&show_icons=true&theme=radical)
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma dúvida ou quiser colaborar em algum projeto.
