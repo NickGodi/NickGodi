@@ -38,9 +38,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
 </div>
 
-
-### [Meu Portfólio]([https://github.com/seu-usuario/meu-portfolio](https://nick-web-site-portfolio-curriculo.vercel.app/))
-
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
 </div>
