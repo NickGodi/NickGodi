@@ -39,15 +39,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 </div>
 
 #
-
-## 🌟 Projetos Destacados
-
 ### [Meu Portfólio]([https://github.com/seu-usuario/meu-portfolio](https://nick-web-site-portfolio-curriculo.vercel.app/))
 Meu portfólio pessoal, onde apresento meus projetos e habilidades. Desenvolvido com HTML, CSS, JavaScript e Bootstrap.
-
-## 📫 Contato
-
-- **Email**: nicolas.100julio@gmail.com
 
 ## 📊 Estatísticas do GitHub
 
