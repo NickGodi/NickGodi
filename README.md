@@ -40,7 +40,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 
 ### [Meu Portfólio]([https://github.com/seu-usuario/meu-portfolio](https://nick-web-site-portfolio-curriculo.vercel.app/))
-Meu portfólio pessoal, onde apresento meus projetos e habilidades.
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
