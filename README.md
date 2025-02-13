@@ -32,10 +32,5 @@ Meu portfólio pessoal, onde apresento meus projetos e habilidades. Desenvolvido
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nickgodi&hide_progress=true&theme=radical)
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=nickgodi&theme=radical)
 ![snake gif](https://github.com/nickgodi/nickgodi/blob/output/github-contribution-grid-snake.svg)
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nickgodi/nickgodi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nickgodi/nickgodi/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma dúvida ou quiser colaborar em algum projeto.
