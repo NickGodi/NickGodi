@@ -29,5 +29,6 @@ Meu portfólio pessoal, onde apresento meus projetos e habilidades. Desenvolvido
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nickgodi&show_icons=true&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma dúvida ou quiser colaborar em algum projeto.
