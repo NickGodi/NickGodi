@@ -31,5 +31,6 @@ Meu portfólio pessoal, onde apresento meus projetos e habilidades. Desenvolvido
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nickgodi&show_icons=true&theme=radical)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nickgodi&hide_progress=true&theme=radical)
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=nickgodi&theme=radical)
+![snake gif](https://github.com/nickgodi/nickgodi/blob/output/github-contribution-grid-snake.svg)
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma dúvida ou quiser colaborar em algum projeto.
